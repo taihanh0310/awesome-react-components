@@ -402,6 +402,7 @@
  - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
  - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
  - [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
+ - [react-number-format](https://github.com/s-yadav/react-number-format) - React component to format numbers in an input or as a text.
 
 
 #### Autocomplete
